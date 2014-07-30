@@ -15,9 +15,9 @@
 ## You should have received a copy of the GNU General Public License
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-# createdb.py
+# createDb.py
 
-# Call it from console passing database filename: python createdb.py filename
+# Call it from console passing database filename: python createDb.py filename
 
 import sqlite3
 import sys
